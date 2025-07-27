@@ -1,0 +1,8 @@
+
+---
+
+### `requirements.txt`
+
+```txt
+pyspark==3.5.0
+pandas
