@@ -25,8 +25,11 @@ pip install -r requirements.txt
 spark-submit src/ingest.py
 spark-submit src/clean_transform.py
 spark-submit src/aggregate.py
-
+```
 Updated:
 - Start with run.bat first 
 - Then spark-submit for the TL codes (this is to lock python to spark)
 - Then streamlit run for the dash/app files
+
+## How to View Dashboard
+https://hnp01.github.io/test_etl/ 
