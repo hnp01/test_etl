@@ -32,5 +32,5 @@ Updated:
 - Then streamlit run for the dash/app files
 
 ## How to View Dashboard and App
-https://hnp01.github.io/test_etl/ 
+https://hnp01.github.io/test_etl/ \
 https://rankdashboardapp.streamlit.app/
