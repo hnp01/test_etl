@@ -31,5 +31,6 @@ Updated:
 - Then spark-submit for the TL codes (this is to lock python to spark)
 - Then streamlit run for the dash/app files
 
-## How to View Dashboard
+## How to View Dashboard and App
 https://hnp01.github.io/test_etl/ 
+https://rankdashboardapp.streamlit.app/
