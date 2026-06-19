@@ -32,4 +32,4 @@ Updated:
 - Then streamlit run for the dash/app files
 
 ## How to View App
-[](https://simple-drug-medicaid-app.onrender.com/)
+[Medicaid spending](https://simple-drug-medicaid-app.onrender.com/)
